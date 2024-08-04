@@ -1,7 +1,7 @@
-#include<Servo.h>
+#include <Servo.h>
 Servo myservo;
-const int trigPin=10;
-const int echoPin=9; 
+const int trigPin=10; //this pin is for OUTPUT
+const int echoPin=9;  // this pin is for INPUT
 long tmeduration;
 int distance;
 
