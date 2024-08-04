@@ -12,5 +12,5 @@ This project is an Arduino-based car toll gate system that uses a servo motor an
 
 ## Circuit Diagram
 
-![image](https://github.com/user-attachments/assets/2fe5a0d7-c0e9-473d-a400-7016aa176e10)
 
+![298395896-c73c964d-4498-49f8-93dd-5aa18014e5b6](https://github.com/user-attachments/assets/0850afaa-f2f5-45f5-a224-4887d2bc31cd)
